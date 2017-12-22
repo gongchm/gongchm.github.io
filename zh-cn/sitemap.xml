@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/zh-cn/categories/" hreflang="zh-cn"/>
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/categories/" hreflang="en"/>
+    
+      <loc>http://www.chemmy.name/zh-cn/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/zh-cn/publication_types/" hreflang="zh-cn"/>
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/publication_types/" hreflang="en"/>
+    
+      <loc>http://www.chemmy.name/zh-cn/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/zh-cn/tags/" hreflang="zh-cn"/>
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/tags/" hreflang="en"/>
+    
+      <loc>http://www.chemmy.name/zh-cn/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/zh-cn/" hreflang="zh-cn"/>
+      <xhtml:link rel="alternate" href="http://www.chemmy.name/" hreflang="en"/>
+    
+      <loc>http://www.chemmy.name/zh-cn/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
