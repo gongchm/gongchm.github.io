@@ -5,8 +5,35 @@
     
     <url>
     
-      <loc>https://gongchm.github.io/about/</loc>
-      <lastmod>2017-12-22T11:30:37+08:00</lastmod>
+      <loc>https://gongchm.github.io/project/emsaas/</loc>
+      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/project/mged/</loc>
+      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/project/mgso/</loc>
+      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/project/bridge/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -77,8 +104,27 @@
     
     <url>
     
+      <loc>https://gongchm.github.io/post/csdp/</loc>
+      <lastmod>2010-06-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gongchm.github.io/publication_types/2/</loc>
       <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/tags/bridge/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -96,8 +142,38 @@
     
     <url>
     
+      <loc>https://gongchm.github.io/tags/microgrid/</loc>
+      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gongchm.github.io/tags/overseas/</loc>
       <lastmod>2014-05-19T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/tags/profession/</loc>
+      <lastmod>2010-06-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/project/</loc>
+      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

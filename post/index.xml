@@ -46,5 +46,25 @@
 </description>
     </item>
     
+    <item>
+      <title>通过了IEEE Computer Society的CSDP认证</title>
+      <link>https://gongchm.github.io/post/csdp/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0800</pubDate>
+      
+      <guid>https://gongchm.github.io/post/csdp/</guid>
+      <description>&lt;p&gt;5月出版的IEEE Computer杂志在Computer Society Connection专栏公布了最新通过CSDP认证的名单，很荣幸我名列其中，自己努力尝试的目标达成了。&lt;/p&gt;
+
+&lt;p&gt;自己的专业教育背景和从事的工作是电气工程，但是提供的产品和服务都是软件方面的，尽管平时不断在学习软件方面的知识，但是一直觉得缺少系统的训练和检验。正好看到IEEE计算机协会开展软件工程的认证，决定参照这一认证的要求系统地学习软件工程的理论，学完了以后报名参加了IEEE的考试。考试时又有机会回了趟南大母校，考试的方式是和外语考试类似的机考，英文试卷。&lt;/p&gt;
+
+&lt;p&gt;考试后就等着结果，最终等到了通过的消息，对自己来说，也更有信心去从事软件领域的工作。我也会向其他同事朋友推荐这一认证考试。&lt;/p&gt;
+
+&lt;p&gt;一起公布通过这批认证的美国人有87位，中国人有3位，印度人有7位，其他国家的有21位。&lt;/p&gt;
+
+&lt;p&gt;CSDP认证借鉴了PMP认证的方式，发布了Software Engineering Body of Knowledge(SWBOK)，以此知识体系作为认证的基础。SWBOK涵盖软件需求、软件设计、软件构造、软件测试、软件维护、软件配置管理、软件工程管理、软件工程过程、软件工程工具和方法、软件质量共十个知识领域，其中通过CSDP认证可被认为达到proficiency of standard software development practices的程度。稍低一个级别的认证是CSDA。&lt;/p&gt;
+
+&lt;p&gt;Computer Society Connection的原文可以从&lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=5472895&#34; target=&#34;_blank&#34;&gt;IEEE Xplore&lt;/a&gt;上下载到。&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

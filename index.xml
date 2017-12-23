@@ -11,20 +11,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About</title>
-      <link>https://gongchm.github.io/about/</link>
-      <pubDate>Fri, 22 Dec 2017 11:30:37 +0800</pubDate>
+      <title>预研：综合能源管理SaaS</title>
+      <link>https://gongchm.github.io/project/emsaas/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gongchm.github.io/about/</guid>
-      <description>&lt;p&gt;#关于我&lt;/p&gt;
+      <guid>https://gongchm.github.io/project/emsaas/</guid>
+      <description>&lt;p&gt;实现和电力电子的无缝衔接。&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;2017.11 南京德睿能源研究院有限公司 董事长&lt;/li&gt;
-&lt;li&gt;2016.12 研究员级高级工程师&lt;/li&gt;
-&lt;li&gt;2016.10-2016.09 国电南瑞科技股份有限公司配电/农电分公司 副总经理&lt;/li&gt;
-&lt;li&gt;2015.11-2016.10 国电南瑞科技股份有限公司电网分公司 副总经理&lt;/li&gt;
-&lt;li&gt;2013.10-2015.11 国电南瑞科技股份有限公司电网分公司 总工程师&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;未来虚拟同步机和电力电子变压器。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>在研：交直流混合微电网系统能量管理和经济调度</title>
+      <link>https://gongchm.github.io/project/mged/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gongchm.github.io/project/mged/</guid>
+      <description>&lt;p&gt;实现和电力电子的无缝衔接。&lt;/p&gt;
+
+&lt;p&gt;未来虚拟同步机和电力电子变压器。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>在研：交直流混合微电网系统运行控制</title>
+      <link>https://gongchm.github.io/project/mgso/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gongchm.github.io/project/mgso/</guid>
+      <description>&lt;p&gt;实现和电力电子的无缝衔接。&lt;/p&gt;
+
+&lt;p&gt;未来虚拟同步机和电力电子变压器。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>在研：物联网数据桥接器</title>
+      <link>https://gongchm.github.io/project/bridge/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gongchm.github.io/project/bridge/</guid>
+      <description>&lt;p&gt;综合能源管理和大量微电网设备特别是电力电子模块的智能运维都需要采集海量数据。&lt;/p&gt;
+
+&lt;p&gt;该项目研发在物联网数据协议和系统平台的协议之间的高校桥接，打通从海量小微传感器的数据采集到最终大数据分析的通道。系统具备单节点应对10万个以上链路的数据传输，并支持增加节点实现水平扩展。&lt;/p&gt;
+
+&lt;p&gt;系统已于2017年底实现试运行，预计2018年中在实际系统上部署。&lt;/p&gt;
 </description>
     </item>
     
@@ -80,6 +112,26 @@
 &lt;p&gt;Congratulate the success of the forum again. Welcome you to come to China and visit SGCC.&lt;/p&gt;
 
 &lt;p&gt;Thank you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>通过了IEEE Computer Society的CSDP认证</title>
+      <link>https://gongchm.github.io/post/csdp/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0800</pubDate>
+      
+      <guid>https://gongchm.github.io/post/csdp/</guid>
+      <description>&lt;p&gt;5月出版的IEEE Computer杂志在Computer Society Connection专栏公布了最新通过CSDP认证的名单，很荣幸我名列其中，自己努力尝试的目标达成了。&lt;/p&gt;
+
+&lt;p&gt;自己的专业教育背景和从事的工作是电气工程，但是提供的产品和服务都是软件方面的，尽管平时不断在学习软件方面的知识，但是一直觉得缺少系统的训练和检验。正好看到IEEE计算机协会开展软件工程的认证，决定参照这一认证的要求系统地学习软件工程的理论，学完了以后报名参加了IEEE的考试。考试时又有机会回了趟南大母校，考试的方式是和外语考试类似的机考，英文试卷。&lt;/p&gt;
+
+&lt;p&gt;考试后就等着结果，最终等到了通过的消息，对自己来说，也更有信心去从事软件领域的工作。我也会向其他同事朋友推荐这一认证考试。&lt;/p&gt;
+
+&lt;p&gt;一起公布通过这批认证的美国人有87位，中国人有3位，印度人有7位，其他国家的有21位。&lt;/p&gt;
+
+&lt;p&gt;CSDP认证借鉴了PMP认证的方式，发布了Software Engineering Body of Knowledge(SWBOK)，以此知识体系作为认证的基础。SWBOK涵盖软件需求、软件设计、软件构造、软件测试、软件维护、软件配置管理、软件工程管理、软件工程过程、软件工程工具和方法、软件质量共十个知识领域，其中通过CSDP认证可被认为达到proficiency of standard software development practices的程度。稍低一个级别的认证是CSDA。&lt;/p&gt;
+
+&lt;p&gt;Computer Society Connection的原文可以从&lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=5472895&#34; target=&#34;_blank&#34;&gt;IEEE Xplore&lt;/a&gt;上下载到。&lt;/p&gt;
 </description>
     </item>
     
