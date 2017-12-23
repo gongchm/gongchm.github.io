@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on 龚成明@DERI</title>
-    <link>http://www.chemmy.name/publication/</link>
+    <link>https://gongchm.github.io/publication/</link>
     <description>Recent content in Publications on 龚成明@DERI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>并行稀疏系统直接求解库SuperLU_MT在状态估计中的应用</title>
-      <link>http://www.chemmy.name/publication/super-lu/</link>
+      <link>https://gongchm.github.io/publication/super-lu/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chemmy.name/publication/super-lu/</guid>
+      <guid>https://gongchm.github.io/publication/super-lu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>加权最小二乘状态估计量测权值计算的实用方法</title>
-      <link>http://www.chemmy.name/publication/se-weigh/</link>
+      <link>https://gongchm.github.io/publication/se-weigh/</link>
       <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chemmy.name/publication/se-weigh/</guid>
+      <guid>https://gongchm.github.io/publication/se-weigh/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Key point:&lt;/strong&gt;  $\sigma(m,l)= f_{m,l} \times \frac{p_m}{100}$&lt;/p&gt;
 </description>
     </item>

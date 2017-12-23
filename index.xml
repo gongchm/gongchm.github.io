@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>龚成明@DERI on 龚成明@DERI</title>
-    <link>http://www.chemmy.name/</link>
+    <link>https://gongchm.github.io/</link>
     <description>Recent content in 龚成明@DERI on 龚成明@DERI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,30 +11,48 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>About</title>
+      <link>https://gongchm.github.io/about/</link>
+      <pubDate>Fri, 22 Dec 2017 11:30:37 +0800</pubDate>
+      
+      <guid>https://gongchm.github.io/about/</guid>
+      <description>&lt;p&gt;#关于我&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2017.11 南京德睿能源研究院有限公司 董事长&lt;/li&gt;
+&lt;li&gt;2016.12 研究员级高级工程师&lt;/li&gt;
+&lt;li&gt;2016.10-2016.09 国电南瑞科技股份有限公司配电/农电分公司 副总经理&lt;/li&gt;
+&lt;li&gt;2015.11-2016.10 国电南瑞科技股份有限公司电网分公司 副总经理&lt;/li&gt;
+&lt;li&gt;2013.10-2015.11 国电南瑞科技股份有限公司电网分公司 总工程师&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>并行稀疏系统直接求解库SuperLU_MT在状态估计中的应用</title>
-      <link>http://www.chemmy.name/publication/super-lu/</link>
+      <link>https://gongchm.github.io/publication/super-lu/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chemmy.name/publication/super-lu/</guid>
+      <guid>https://gongchm.github.io/publication/super-lu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>加权最小二乘状态估计量测权值计算的实用方法</title>
-      <link>http://www.chemmy.name/publication/se-weigh/</link>
+      <link>https://gongchm.github.io/publication/se-weigh/</link>
       <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chemmy.name/publication/se-weigh/</guid>
+      <guid>https://gongchm.github.io/publication/se-weigh/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Key point:&lt;/strong&gt;  $\sigma(m,l)= f_{m,l} \times \frac{p_m}{100}$&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>在首届非洲智能电网论坛闭幕式上的致辞</title>
-      <link>http://www.chemmy.name/post/cote-divoire/</link>
+      <link>https://gongchm.github.io/post/cote-divoire/</link>
       <pubDate>Mon, 19 May 2014 00:00:00 +0800</pubDate>
       
-      <guid>http://www.chemmy.name/post/cote-divoire/</guid>
+      <guid>https://gongchm.github.io/post/cote-divoire/</guid>
       <description>&lt;p&gt;5月16日中午，首届非洲智能电网论坛主要议程已经结束，主办方到餐厅找到了中国国家电网公司代表团，提出希望邀请SGCC在下午的闭幕式上致辞。因几位领导的行程已定，我被指派在下午的闭幕式上代表国网致辞。公司副总工程师王益民先生对如何致辞作了认真细致的交待，中午花一个多小时完成致辞初稿，驻非办领导任远帮助进行了修改。&lt;/p&gt;
 
 &lt;p&gt;Fri, May 16, 2014.&lt;/p&gt;
