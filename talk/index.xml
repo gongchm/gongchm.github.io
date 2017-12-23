@@ -10,5 +10,15 @@
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Estimation of the Random Error Variance of Measurements on Time-Varying Values</title>
+      <link>https://gongchm.github.io/talk/zijin2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://gongchm.github.io/talk/zijin2017/</guid>
+      <description>&lt;p&gt;$\sigma_c^2=\Sigma\sigma_i^2$&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
