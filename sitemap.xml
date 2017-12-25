@@ -104,6 +104,15 @@
     
     <url>
     
+      <loc>https://gongchm.github.io/publication/design-pattern/</loc>
+      <lastmod>2015-07-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gongchm.github.io/post/cote-divoire/</loc>
       <lastmod>2014-05-19T00:00:00+08:00</lastmod>
     </url>
@@ -113,8 +122,27 @@
     
     <url>
     
+      <loc>https://gongchm.github.io/publication/complex-number/</loc>
+      <lastmod>2010-07-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gongchm.github.io/post/csdp/</loc>
       <lastmod>2010-06-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/publication_types/1/</loc>
+      <lastmod>2015-07-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -192,7 +220,7 @@
     <url>
     
       <loc>https://gongchm.github.io/publication_types/</loc>
-      <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+      <lastmod>2015-07-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

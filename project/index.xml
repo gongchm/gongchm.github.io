@@ -16,9 +16,7 @@
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gongchm.github.io/project/emsaas/</guid>
-      <description>&lt;p&gt;实现和电力电子的无缝衔接。&lt;/p&gt;
-
-&lt;p&gt;未来虚拟同步机和电力电子变压器。&lt;/p&gt;
+      <description>&lt;p&gt;以SaaS的形式为用户提供能源网络建模、数据采集定义、能源系统运行平衡分析、热点分析、在线优化策略和离线优化建议等功能。&lt;/p&gt;
 </description>
     </item>
     
@@ -28,9 +26,11 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gongchm.github.io/project/mged/</guid>
-      <description>&lt;p&gt;实现和电力电子的无缝衔接。&lt;/p&gt;
+      <description>&lt;p&gt;已在国内主要的电动车服务网络之一试运行，为电动公交车提供充电优化服务，在满足车辆运营需求的同时，将充电时间控制在主要放在低谷电价时段，显著降低了用电成本，同时也实现了充电的峰谷差和电网峰谷差的反向调节。&lt;/p&gt;
 
-&lt;p&gt;未来虚拟同步机和电力电子变压器。&lt;/p&gt;
+&lt;p&gt;下一步将继续通过分析充电网络的能量平衡来进一步提高充电效率，研究应用固定储能设施和电动汽车移动储能特性配合，进一步降低电价并提升充电基础设施的供电可靠性。&lt;/p&gt;
+
+&lt;p&gt;已和具有新能源发电背景的售电公司达成合作协议，推进充放电基础设施和售电业务的结合，显著提升售电业务和电动车充放电业务的效益。&lt;/p&gt;
 </description>
     </item>
     
@@ -40,9 +40,9 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gongchm.github.io/project/mgso/</guid>
-      <description>&lt;p&gt;实现和电力电子的无缝衔接。&lt;/p&gt;
+      <description>&lt;p&gt;实现传统电网调控运行经验和电力电子技术的无缝衔接。电力电子器件具有调节快速、精准的特点，但是快速调节的副作用是系统惯性小，精准调节的副作用是控制增益大，这两点都将直接影响到系统的稳定性。通过把电力系统现有的一次调频有差调节等概念应用到电力电子化的微电网系统中，来实现微网系统的安全、稳定运行。&lt;/p&gt;
 
-&lt;p&gt;未来虚拟同步机和电力电子变压器。&lt;/p&gt;
+&lt;p&gt;未来过渡到实现虚拟同步机和电力电子变压器。&lt;/p&gt;
 </description>
     </item>
     
@@ -54,7 +54,7 @@
       <guid>https://gongchm.github.io/project/bridge/</guid>
       <description>&lt;p&gt;综合能源管理和大量微电网设备特别是电力电子模块的智能运维都需要采集海量数据。&lt;/p&gt;
 
-&lt;p&gt;该项目研发在物联网数据协议和系统平台的协议之间的高校桥接，打通从海量小微传感器的数据采集到最终大数据分析的通道。系统具备单节点应对10万个以上链路的数据传输，并支持增加节点实现水平扩展。&lt;/p&gt;
+&lt;p&gt;该项目研发在物联网数据协议和系统平台的协议之间的高效桥接，打通从海量小微传感器的数据采集到最终大数据分析的通道。系统具备单节点应对10万个以上链路的数据传输，并支持增加节点实现水平扩展。&lt;/p&gt;
 
 &lt;p&gt;系统已于2017年底实现试运行，预计2018年中在实际系统上部署。&lt;/p&gt;
 </description>
