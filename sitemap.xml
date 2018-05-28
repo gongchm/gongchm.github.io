@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://gongchm.github.io/post/nevcc-2018/</loc>
+      <lastmod>2018-05-24T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gongchm.github.io/post/open-3000/</loc>
       <lastmod>2017-12-27T00:00:00+08:00</lastmod>
     </url>
@@ -234,6 +243,16 @@
     <url>
     
       <loc>https://gongchm.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gongchm.github.io/tags/ev/</loc>
+      <lastmod>2018-05-24T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     

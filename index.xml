@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>参加2018中国新能源汽车国际合作大会圆桌论坛</title>
+      <link>https://gongchm.github.io/post/nevcc-2018/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://gongchm.github.io/post/nevcc-2018/</guid>
+      <description>&lt;p&gt;2018年5月24日，由四川省新能源汽车产业发展推进小组办公室、中国国际贸易促进委员会汽车行业委员会主办，四川省经济和信息化委员会、中国际贸易促进委员会四川省委员会、微车界传媒联合承办的“2018中国新能源汽车国际合作大会”在成都举行。大会以“新势力·新变革·新动力”为主题，汇聚政府领导、行业领袖、知名专家、企业家、媒体记者等500余人，围绕新能源、新技术、新变革、新模式等模块，探讨新能源汽车“变道超车”的新思维与新实践，为汽车产业转型升级发展提供创新动力。四川省人民政府王一宏副省长、中国贸促会汽车行业委员会王侠会长出席大会并致辞。&lt;/p&gt;
+
+&lt;p&gt;大会下午最后一个环节安排了以“新能源、智能汽车、绿色出行的创新与融合”为主题的圆桌论坛，电子科大车联网校友会执行秘书长肖波、电子科技大学教授罗蕾、四川交投新能源公司副总经理高萌、西华大学汽车与交通学院院长彭忆强和我在圆桌论坛上进行了探讨交流。&lt;/p&gt;
+
+&lt;p&gt;虽然是“新能源汽车”的会议，但是整个会议上“汽车”的话题居多，“能源”的话题偏少。在参加的圆桌论坛环节，我主要围绕“能源”这一主题，谈了两个要点和三个未来的场景。&lt;/p&gt;
+
+&lt;p&gt;和能源相关的两个要点指一方面要能够给电动汽车提供安全、便捷和经济的电力供应，另一方面要将电动汽车融入到电力能源体系中。畅想的未来的三个场景包括“无人驾驶电动汽车的无人充电”、“一般的乘用车基本实现用电基本不用额外付费”、“电动汽车随风而充、随光而充”。&lt;/p&gt;
+
+&lt;p&gt;参见&lt;a href=&#34;http://www.sc.gov.cn/10462/10464/10797/2018/5/25/10451683.shtml&#34; target=&#34;_blank&#34;&gt;四川省政府网站新闻&lt;/a&gt;和&lt;a href=&#34;http://www.ccpit-sichuan.org/newshow.aspx?mid=18&amp;amp;id=5201&#34; target=&#34;_blank&#34;&gt;四川省贸促会网站报道&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OPEN-3000忆事</title>
       <link>https://gongchm.github.io/post/open-3000/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0800</pubDate>
@@ -256,26 +274,6 @@
       
       <guid>https://gongchm.github.io/publication/complex-number/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>通过了IEEE Computer Society的CSDP认证</title>
-      <link>https://gongchm.github.io/post/csdp/</link>
-      <pubDate>Tue, 01 Jun 2010 00:00:00 +0800</pubDate>
-      
-      <guid>https://gongchm.github.io/post/csdp/</guid>
-      <description>&lt;p&gt;5月出版的IEEE Computer杂志在Computer Society Connection专栏公布了最新通过CSDP认证的名单，很荣幸我名列其中，自己努力尝试的目标达成了。&lt;/p&gt;
-
-&lt;p&gt;自己的专业教育背景和从事的工作是电气工程，但是提供的产品和服务都是软件方面的，尽管平时不断在学习软件方面的知识，但是一直觉得缺少系统的训练和检验。正好看到IEEE计算机协会开展软件工程的认证，决定参照这一认证的要求系统地学习软件工程的理论，学完了以后报名参加了IEEE的考试。考试时又有机会回了趟南大母校，考试的方式是和外语考试类似的机考，英文试卷。&lt;/p&gt;
-
-&lt;p&gt;考试后就等着结果，最终等到了通过的消息，对自己来说，也更有信心去从事软件领域的工作。我也会向其他同事朋友推荐这一认证考试。&lt;/p&gt;
-
-&lt;p&gt;一起公布通过这批认证的美国人有87位，中国人有3位，印度人有7位，其他国家的有21位。&lt;/p&gt;
-
-&lt;p&gt;CSDP认证借鉴了PMP认证的方式，发布了Software Engineering Body of Knowledge(SWBOK)，以此知识体系作为认证的基础。SWBOK涵盖软件需求、软件设计、软件构造、软件测试、软件维护、软件配置管理、软件工程管理、软件工程过程、软件工程工具和方法、软件质量共十个知识领域，其中通过CSDP认证可被认为达到proficiency of standard software development practices的程度。稍低一个级别的认证是CSDA。&lt;/p&gt;
-
-&lt;p&gt;Computer Society Connection的原文可以从&lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=5472895&#34; target=&#34;_blank&#34;&gt;IEEE Xplore&lt;/a&gt;上下载到。&lt;/p&gt;
-</description>
     </item>
     
   </channel>
