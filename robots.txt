@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Moved to https://gong.cm/
